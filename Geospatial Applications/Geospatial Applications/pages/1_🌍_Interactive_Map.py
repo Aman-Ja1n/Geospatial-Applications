@@ -2,7 +2,7 @@ import streamlit as st
 import leafmap.foliumap as leafmap
 
 markdown = """
-GitHub Repository: <https://github.com/Amanjain00>
+GitHub Repository: <https://github.com/Aman-Ja1n/Geospatial-Applications.git>
 """
 
 st.sidebar.title("About")
