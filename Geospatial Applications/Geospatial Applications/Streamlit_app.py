@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 
 # Customize the sidebar
 markdown = """
-Web App URL: <#>
+Web App URL: <https://geospatial-application.onrender.com>
 GitHub Repository: <https://github.com/Amanjain00>
 """
 
