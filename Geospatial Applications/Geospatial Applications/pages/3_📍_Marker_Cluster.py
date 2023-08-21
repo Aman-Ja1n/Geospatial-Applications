@@ -4,7 +4,7 @@ import leafmap.foliumap as leafmap
 st.set_page_config(layout="wide")
 
 markdown = """
-GitHub Repository: <https://github.com/Amanjain00>
+GitHub Repository: <https://github.com/Aman-Ja1n/Geospatial-Applications.git>
 """
 
 st.sidebar.title("About")
