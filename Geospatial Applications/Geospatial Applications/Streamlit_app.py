@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 # Customize the sidebar
 markdown = """
 Web App URL: <https://geospatial-application.onrender.com>
-GitHub Repository: <https://github.com/Amanjain00>
+GitHub Repository: <https://github.com/Aman-Ja1n/Geospatial-Applications.git>
 """
 
 st.sidebar.title("About")
@@ -26,9 +26,8 @@ st.markdown(
 st.header("Instructions")
 
 markdown = """
-1. For the [GitHub repository](https://github.com/Amanjain00).
+1. For the [GitHub repository](https://github.com/Aman-Ja1n/Geospatial-Applications.git).
 2. Customize the sidebar by changing the sidebar text and logo in each Python files.
-3. Add a new app to the `pages/` directory with an emoji in the file name, e.g., `1_🚀_Chart.py`.
 
 """
 
